@@ -1,0 +1,1 @@
+Bu ödevde başlangıç için olan kodlamaları java diliyle yazmaya çalıştım başta biraz zorlansamda gittikçe eğlenceli gelmeye başladı derste öğrendiğim bilgileri burada yazıya dönüştürmek benim için daha kalıcı oldu.
