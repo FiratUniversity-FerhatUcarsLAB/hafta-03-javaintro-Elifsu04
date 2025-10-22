@@ -1,1 +1,6 @@
-Bu ödevde başlangıç için olan kodlamaları java diliyle yazmaya çalıştım başta biraz zorlansamda gittikçe eğlenceli gelmeye başladı derste öğrendiğim bilgileri burada yazıya dönüştürmek benim için daha kalıcı oldu.
+Öğrenci no:250541004
+Adı-Soyadı:Elif su Kansu
+Bu ödevde ilk olarak java'ya hoş geldiniz,bilgisayar bilimlerine hoş geldiniz ve kodlama güzeldir mesajlarını yazdırdım bunlarıda online java compiler'dan yaptım.
+İkinci olarak java'ya hoş geldiniz mesajını beş defa yazdırdım
+Üçüncü ve son olarakta java deseni yaptım.
+
