@@ -1,31 +1,36 @@
-public class UsluSayilarTablosu {
+public class CarpimTablosu {
 
     public static void main(String[] args) {
         
-        System.out.println("---------------------------------------");
-        System.out.printf("%-10s | %-10s | %-10s%n", "a", "a^2", "a^3");
-        System.out.println("---------------------------------------");
+        int carpan = 2;
+        int baslangic = 1; 
+        int bitis = 10;
         
-        for (int a = 1; a <= 5; a++) {
-
-            double aKare = Math.pow(a, 2); 
+        System.out.println(carpan + "'nin Çarpım Tablosu (" + baslangic + " - " + bitis + ")");
+        System.out.println("---------------------------------");
+        
+        for (int i = baslangic; i <= bitis; i++) {
             
-            double aKup = Math.pow(a, 3);
+            int sonuc = carpan * i;
             
-            System.out.printf("%-10d | %-10.0f | %-10.0f%n", a, aKare, aKup);
+            System.out.printf("%d x %-2d = %d%n", carpan, i, sonuc);
         }
         
-        System.out.println("---------------------------------------");
+        System.out.println("---------------------------------");
     }
 }
----------------------------------------
-a          | a^2        | a^3       
----------------------------------------
-1          | 1          | 1         
-2          | 4          | 8         
-3          | 9          | 27        
-4          | 16         | 64        
-5          | 25         | 125       
----------------------------------------
+2'nin ?arp?m Tablosu (1 - 10)
+---------------------------------
+2 x 1  = 2
+2 x 2  = 4
+2 x 3  = 6
+2 x 4  = 8
+2 x 5  = 10
+2 x 6  = 12
+2 x 7  = 14
+2 x 8  = 16
+2 x 9  = 18
+2 x 10 = 20
+---------------------------------
 
 === Code Execution Successful ===
