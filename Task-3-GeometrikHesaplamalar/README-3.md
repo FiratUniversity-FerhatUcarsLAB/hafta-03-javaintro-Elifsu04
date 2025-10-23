@@ -1,0 +1,1 @@
+Bu görevde geometrik hesaplamalar java koduyla yazdım ilk olarak daire alan hesaplamayı yaptım sonra da dikdörtgen alan hesaplamayı en sonda da üçgen alan hesaplamayı yaptım ve ekran görüntülerini alıp yükledim.
